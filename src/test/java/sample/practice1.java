@@ -7,6 +7,7 @@ public class practice1 {
 	public void Sample()
 	{
 		System.out.println("This is the first commit");
+		System.out.println("hello");
 	}
 
 }
