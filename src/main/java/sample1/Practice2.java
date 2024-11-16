@@ -7,5 +7,6 @@ public class Practice2 {
     public void Sam()
     {
     	System.out.println("new feature");
+    	System.out.println("new feature is added");
     }
 }
